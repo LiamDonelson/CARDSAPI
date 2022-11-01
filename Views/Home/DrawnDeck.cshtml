@@ -1,0 +1,8 @@
+﻿@model Deck
+
+<p> You have a total of @Model.remaining Cards in your deck!</p>
+@foreach(Card d in Model.cards){
+    <p>@d.value of @d.suit</p>
+    <img src="@d.image">
+
+}

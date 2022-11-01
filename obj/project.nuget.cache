@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWjSiD4jGs9xEPl2+rIXwOPlcAD1I6D8+eedmPv7rsQY2HKglhE16yjbQcQslwfNDq61CacsZtA3yXW/THPRAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liam\\Desktop\\Animal Interface Practice\\CardsAPI\\CardsAPI\\CardsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liam\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
